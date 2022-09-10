@@ -39,6 +39,10 @@
 
 <img src="nyc_boroughs.jpeg" alt="logo" style="zoom:100%;" />
 
+<h4>Properties Distribution in New York City</h4>
+
+<img src="airbnb_nyc_plot.png" alt="logo" style="zoom:100%;" />
+
 <h2>3. Business Premises</h2>
 
 <h3>The premises that were assumed for the development of the business problem solution are:</h3>
@@ -46,7 +50,8 @@
 <ul>
 <li>Every property rented was reviewed once the contract has come to an end.</li>
 <li>Every property has been avilable since the date of the last review.</li>
-<li>Question that could be answered with more than one id should be ordered by the 'id' or 'host_id' variables.</li>
+<li>Rows with NA values in the 'last_review' column represents properties that were never rented or reviewed.</li>
+<li>The foundation of Airbnb were considered to fill the NA values in the 'last_review' column.</li>
 </ul>
 
 <h2>4. Solution Strategy</h2>
@@ -70,9 +75,6 @@
 <p><b>I3:</b>Properties that were never reviewed are 10% cheaper than those at least once reviewed.</p>
 <p><b>False:</b> The average price of the properties that were never reviewed are greater than the price of those properties that were reviewed at least once.</p>
 
-<p><b>I4:</b>Properties that were never reviewed are 10% cheaper than those at least once reviewed.</p>
-<p><b>False:</b> The average price of the properties that were never reviewed are greater than the price of those properties that were reviewed at least once.</p>
-
 <h2>6. Conclusion</h2>
 
 <p>The questions from the CEO that motivated this project were answered. Some of the answers can lead to future profit. Based on data, the CEO can take further steps on the real state market.</p>
@@ -80,6 +82,7 @@
 <h2>7. Future Work</h2>
 
 <ul>
+<li>Create more insights.</li>
 <li>Develop a machine learning model to predict the rest price of a property.</li>
 <li>Develop a machine learning model to predict if a property with certain characteristics should be bought or not.</li>
 </ul>
