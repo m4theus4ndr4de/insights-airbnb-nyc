@@ -12,7 +12,7 @@
 
 <p>He wants help to find out the regions with the highest rentals and highest prices and which apartments or houses are in favorable regions of New York City. He believes these characteristics will help him to recover the money invested in the acquisition of some properties more quickly. The challenge is to conduct an exploratory analysis and answer the questions posed by the CEO.</p>
 
-<h2>2. Dataset Attributes</h2>
+<h3>2. Dataset Attributes</h3>
 
 <p>Information about the atrributes can be found <a href="https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885" target="_blank">here</a>.</p>
 
