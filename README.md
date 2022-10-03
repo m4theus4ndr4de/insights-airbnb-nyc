@@ -1,6 +1,6 @@
 <img src="rent.jpg" alt="logo" style="zoom:100%;" />
 
-<h1>Airbnb New York City</h1>
+<h1>Real State Rent</h1>
 
 <p>This is a fictional project for studying purposes. The context, questions and people involved are fictional. The dataset used in this project is from Kaggle and it is available <a href="https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data" target="_blank">there</a>.</p>
 
