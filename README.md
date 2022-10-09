@@ -2,19 +2,19 @@
 
 <h1>Real State Rent</h1>
 
-<p>This is a fictional project for studying purposes. The context, questions and people involved are fictional. The dataset used in this project is from Kaggle and it is available <a href="https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data" target="_blank">there</a>.</p>
+<p align="justify">This is a fictional project for studying purposes. The context, questions and people involved are fictional. The dataset used in this project is from Kaggle and it is available <a href="https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data" target="_blank">there</a>.</p>
 
 <h2>1. Description of the Business Problem</h2>
 
-<p>The CEO from a company would like to diversify his business and start investing in real estate. He defined that he would buy real estate in New York City, in the United States. As it is one of the most expensive places to live in the country, he believes that he will obtain a satisfactory return on his investments if he rents properties in the city. Since all of his decisions are based on data, he wants someone to help him in this endeavor.</p>
+<p align="justify">The CEO from a company would like to diversify his business and start investing in real estate. He defined that he would buy real estate in New York City, in the United States. As it is one of the most expensive places to live in the country, he believes that he will obtain a satisfactory return on his investments if he rents properties in the city. Since all of his decisions are based on data, he wants someone to help him in this endeavor.</p>
 
-<p>He initially plans to lease the properties acquired and for that reason he defined that he will use the Airbnb platform for this purpose. He found a dataset on the internet containing data on the behavior of hosts and their properties in New York City.</p>
+<p align="justify">He initially plans to lease the properties acquired and for that reason he defined that he will use the Airbnb platform for this purpose. He found a dataset on the internet containing data on the behavior of hosts and their properties in New York City.</p>
 
-<p>He wants help to find out the regions with the highest rentals and highest prices and which apartments or houses are in favorable regions of New York City. He believes these characteristics will help him to recover the money invested in the acquisition of some properties more quickly. The challenge is to conduct an exploratory analysis and answer the questions posed by the CEO.</p>
+<p align="justify">He wants help to find out the regions with the highest rentals and highest prices and which apartments or houses are in favorable regions of New York City. He believes these characteristics will help him to recover the money invested in the acquisition of some properties more quickly. The challenge is to conduct an exploratory analysis and answer the questions posed by the CEO.</p>
 
 <h3>2. Dataset Attributes</h3>
 
-<p>Information about the atrributes can be found <a href="https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885" target="_blank">here</a>.</p>
+<p align="justify">Information about the atrributes can be found <a href="https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885" target="_blank">here</a>.</p>
 
 <table style="width:100%">
 <tr><th>Attribute</th><th>Description</th></tr>
@@ -77,7 +77,7 @@
 
 <h2>6. Conclusion</h2>
 
-<p>The questions from the CEO that motivated this project were answered. Some of the answers can lead to future profit. Based on data, the CEO can take further steps on the real state market.</p>
+<p align="justify">The questions from the CEO that motivated this project were answered. Some of the answers can lead to future profit. Based on data, the CEO can take further steps on the real state market.</p>
 
 <h2>7. Future Work</h2>
 
